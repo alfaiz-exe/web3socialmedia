@@ -24,7 +24,7 @@ _Contract Address_: 0x3241aD0b34ff9FbD1196ea5F9eb5F86637a013eD
 _Deployed To_: Core Blockchain Testnet  
 _Owner Address_: **(to be filled by you manually)**  
 _Functions_:
-- `createPost(0x3241aD0b34ff9FbD1196ea5F9eb5F86637a013eD)`
+- `createPost()`
 - `getPost(uint _id)`
 - `setUsername(string _username)`
 -
