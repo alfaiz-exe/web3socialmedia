@@ -20,7 +20,7 @@ To build a censorship-resistant, user-owned, and community-governed social platf
 - Integration with Lens Protocol or Farcaster for social graph interoperability.
 
 ## 📜 Contract Details
-_Contract Address_: **(to be filled by you manually)**  
+_Contract Address_: 0x3241aD0b34ff9FbD1196ea5F9eb5F86637a013eD
 _Deployed To_: Core Blockchain Testnet  
 _Owner Address_: **(to be filled by you manually)**  
 _Functions_:
