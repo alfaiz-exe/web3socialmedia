@@ -21,5 +21,6 @@ To build a censorship-resistant, user-owned, and community-governed social platf
 
 ## 📜 Contract Details
 _Contract Address_: 0x3241aD0b34ff9FbD1196ea5F9eb5F86637a013eD
-- ![image](https://github.com/user-attachments/assets/0ce3f6a4-b283-4e76-9113-6d526ce6b4fa)
+![image](https://github.com/user-attachments/assets/d58710a0-aba9-48c8-a00c-0cb54f698c7f)
+
 
